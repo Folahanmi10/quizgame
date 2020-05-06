@@ -1,0 +1,31 @@
+.main{
+    background-color: rgb(184, 76, 76);
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 30px 35px;
+    margin-top: 100px;
+    color: #ffffff;
+}
+#game_header{
+    font-size: 50px;
+}
+#game_rule{
+    font-style: italic;
+}
+#choiceNext{
+    background-color: #ffffff;
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+    color: rgb(184, 76, 76);
+    font-weight: 600;
+    border: none;
+}
+#game{
+    font-weight: lighter;
+    font-size: 15px;
+    }
+#marks{
+    font-size: 15px;
+
+}
